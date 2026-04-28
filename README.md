@@ -66,6 +66,9 @@ Ion cyclotron resonance: Ions spin at same frequency as waves allowing them to d
 - Lead to ion dominance
 - More orange aka higher ion heating ratio
 
+Remaining Question:
+Is that whole at beta_i ~ 1 from physics or a invalid point?
+
 ### Works Cited and Acknowledgements
 
 Thank you to Vladimir Zhdankin for recomending the Howes(2010) paper which this project was based on.
