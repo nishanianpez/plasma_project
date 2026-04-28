@@ -71,11 +71,18 @@ Ion cyclotron resonance: Ions spin at same frequency as waves allowing them to d
 Thank you to Vladimir Zhdankin for recomending the Howes(2010) paper which this project was based on.
 
 Howes, G. G. (2010). A prescription for the turbulent heating of astrophysical plasmas. Monthly Notices of the Royal Astronomical Society: Letters, 409(1), L104–L108. 
+
 Lynn B. Wilson III et al 2018 ApJS 236 41
+
 Kristopher G. Klein et al 2025 Res. Notes AAS 9 102
 
+
+
 Anthropic. (2024). Claude [Large language model]. (used for undertanding PLUME and help with coding)
+
 Oracle. (2024). VirtualBox (Version 7.0) [Computer software].
+
 Project Jupyter. (2024). JupyterLab [Computer software].
+
 Python Software Foundation. (2024). Anaconda [Software distribution]. Anaconda, Inc.
 
