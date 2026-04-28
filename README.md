@@ -67,7 +67,7 @@ Ion cyclotron resonance: Ions spin at same frequency as waves allowing them to d
 - More orange aka higher ion heating ratio
 
 Remaining Question:
-Is that whole at beta_i ~ 1 from physics or a invalid point?
+Is that hole at beta_i ~ 1 from physics or a invalid point?
 
 ### Works Cited and Acknowledgements
 
