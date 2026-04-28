@@ -79,7 +79,7 @@ Lynn B. Wilson III et al 2018 ApJS 236 41
 
 Kristopher G. Klein et al 2025 Res. Notes AAS 9 102
 
-
+PLUME_2025 K.G. Klein and G.G. Howes, Zenodo, v1.0.1 [Software]
 
 Anthropic. (2024). Claude [Large language model]. (used for undertanding PLUME and help with coding)
 
